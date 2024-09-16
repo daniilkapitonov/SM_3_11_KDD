@@ -1,0 +1,16 @@
+program repeat_untill;
+
+{$APPTYPE CONSOLE}
+
+uses
+  SysUtils;
+
+var a,b,c:integer;
+begin
+  a:=3;
+  b:=2;
+  c:=0;
+  While (a=b) do write(1/0);
+  repeat write(1/c) until (a=b);
+  readln;
+end.
