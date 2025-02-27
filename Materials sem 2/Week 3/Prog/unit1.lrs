@@ -1,0 +1,18 @@
+{ This is an automatically generated lazarus resource file }
+
+LazarusResources.Add('TForm1','FORMDATA',[
+  'TPF0'#6'TForm1'#5'Form1'#4'Left'#3#141#5#6'Height'#3#240#0#3'Top'#3'4'#1#5'W'
+  +'idth'#3'y'#1#7'Caption'#6#15'Lesson_3_Window'#12'ClientHeight'#3#240#0#11'C'
+  +'lientWidth'#3'y'#1#13'DesignTimePPI'#2']'#8'OnCreate'#7#10'FormCreate'#10'L'
+  +'CLVersion'#6#7'2.2.4.0'#0#6'TLabel'#6'Label1'#4'Left'#2' '#6'Height'#2' '#3
+  +'Top'#2'0'#5'Width'#3#220#0#7'Caption'#6#30#208#154#208#187#208#184#208#186
+  +#208#189#208#184' '#208#189#208#176' '#208#186#208#189#208#190#208#191#208
+  +#186#209#131#11'Font.Height'#2#230#11'ParentColor'#8#10'ParentFont'#8#7'OnCl'
+  +'ick'#7#11'Label1Click'#0#0#7'TButton'#7'Button1'#4'Left'#3#168#0#6'Height'#2
+  +'<'#3'Top'#2'h'#5'Width'#3#185#0#7'Caption'#6#24#208#157#208#176#208#182#208
+  +#188#208#184' '#208#189#208#176' '#208#188#208#181#208#189#209#143#11'Font.H'
+  +'eight'#2#237#7'OnClick'#7#12'Button1Click'#10'ParentFont'#8#8'TabOrder'#2#0
+  +#0#0#5'TEdit'#5'Edit1'#4'Left'#2#24#6'Height'#2'"'#3'Top'#2'h'#5'Width'#2'v'
+  +#11'Font.Height'#2#237#8'OnChange'#7#11'Edit1Change'#10'ParentFont'#8#8'TabO'
+  +'rder'#2#1#4'Text'#6#1'0'#0#0#0
+]);

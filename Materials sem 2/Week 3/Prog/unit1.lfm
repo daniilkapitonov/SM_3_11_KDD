@@ -1,0 +1,45 @@
+object Form1: TForm1
+  Left = 1421
+  Height = 240
+  Top = 308
+  Width = 377
+  Caption = 'Lesson_3_Window'
+  ClientHeight = 240
+  ClientWidth = 377
+  DesignTimePPI = 93
+  OnCreate = FormCreate
+  LCLVersion = '2.2.4.0'
+  object Label1: TLabel
+    Left = 32
+    Height = 32
+    Top = 48
+    Width = 220
+    Caption = 'Кликни на кнопку'
+    Font.Height = -26
+    ParentColor = False
+    ParentFont = False
+    OnClick = Label1Click
+  end
+  object Button1: TButton
+    Left = 168
+    Height = 60
+    Top = 104
+    Width = 185
+    Caption = 'Нажми на меня'
+    Font.Height = -19
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Edit1: TEdit
+    Left = 24
+    Height = 34
+    Top = 104
+    Width = 118
+    Font.Height = -19
+    OnChange = Edit1Change
+    ParentFont = False
+    TabOrder = 1
+    Text = '0'
+  end
+end
