@@ -1,0 +1,30 @@
+object Form2: TForm2
+  Left = 709
+  Height = 240
+  Top = 445
+  Width = 320
+  Caption = 'Form2'
+  ClientHeight = 240
+  ClientWidth = 320
+  DesignTimePPI = 93
+  LCLVersion = '2.2.4.0'
+  object Button1: TButton
+    Left = 92
+    Height = 65
+    Top = 75
+    Width = 137
+    Caption = 'Открыть'
+    Font.Height = -16
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Edit1: TEdit
+    Left = 93
+    Height = 25
+    Top = 158
+    Width = 132
+    TabOrder = 1
+    Text = 'Edit1'
+  end
+end

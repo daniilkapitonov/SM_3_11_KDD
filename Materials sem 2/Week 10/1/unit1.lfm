@@ -1,0 +1,59 @@
+object Form1: TForm1
+  Left = 830
+  Height = 286
+  Top = 152
+  Width = 547
+  Caption = 'Form1'
+  ClientHeight = 286
+  ClientWidth = 547
+  DesignTimePPI = 93
+  LCLVersion = '2.2.4.0'
+  object Button1: TButton
+    Left = 11
+    Height = 25
+    Top = 79
+    Width = 157
+    Caption = 'Открыть файл'
+    Font.Height = -16
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Edit1: TEdit
+    Left = 240
+    Height = 31
+    Top = 96
+    Width = 148
+    Font.Height = -16
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 19
+    Height = 27
+    Top = 120
+    Width = 181
+    Caption = 'Создать пустой файл'
+    Font.Height = -16
+    OnClick = Button2Click
+    ParentFont = False
+    TabOrder = 2
+  end
+  object Label1: TLabel
+    Left = 32
+    Height = 1
+    Top = 168
+    Width = 1
+    Font.Height = -16
+    ParentColor = False
+    ParentFont = False
+  end
+  object OpenDialog1: TOpenDialog
+    Left = 32
+    Top = 23
+  end
+  object SaveDialog1: TSaveDialog
+    Left = 104
+    Top = 23
+  end
+end

@@ -1,0 +1,12 @@
+{ This is an automatically generated lazarus resource file }
+
+LazarusResources.Add('TForm1','FORMDATA',[
+  'TPF0'#6'TForm1'#5'Form1'#4'Left'#3'{'#1#6'Height'#3#240#0#3'Top'#3#166#1#5'W'
+  +'idth'#3'@'#1#7'Caption'#6#5'Form1'#12'ClientHeight'#3#240#0#11'ClientWidth'
+  +#3'@'#1#13'DesignTimePPI'#2']'#10'LCLVersion'#6#7'2.2.4.0'#0#7'TButton'#7'Bu'
+  +'tton1'#4'Left'#2'H'#6'Height'#2'A'#3'Top'#2'C'#5'Width'#3#151#0#7'Caption'#6
+  +#14#208#158#209#130#208#186#209#128#209#139#209#130#209#140#11'Font.Height'#2
+  +#240#7'OnClick'#7#12'Button1Click'#10'ParentFont'#8#8'TabOrder'#2#0#0#0#5'TE'
+  +'dit'#5'Edit1'#4'Left'#2'J'#6'Height'#2#25#3'Top'#3#152#0#5'Width'#3#148#0#8
+  +'TabOrder'#2#1#4'Text'#6#5'Edit1'#0#0#0
+]);
